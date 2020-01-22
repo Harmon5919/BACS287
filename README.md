@@ -1,5 +1,5 @@
 # BACS287
-GUI Programming BACS287 Projects
+GUI Programming BACS287 Final Project
 
 ## Hello! Thanks for viewing my code. 
 ### This program is a ticket purchasing "website" that has a:
