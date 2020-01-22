@@ -7,7 +7,7 @@ GUI Programming BACS287 Final Project
 - login page
 - create new user account page
 - ticket type and quantity selection page
-- purchasing page for adding (fake) credit card information
+- purchasing page for adding test data credit card information (No real credit card information stored)
 - admin login and an admin view page. (if you are running the program in Visual Studio the admin login is "admin", password: BACS287)
 
 This project was created using Visual Studio 2019 as the final project in UNCO BACS287.
